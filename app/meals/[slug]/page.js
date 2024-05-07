@@ -1,5 +1,5 @@
 const MealDetailsPage = () => {
-    return <h1>I'm MealDetailsPage</h1>;
+    return <h1>I am MealDetailsPage</h1>;
 };
 
 export default MealDetailsPage;

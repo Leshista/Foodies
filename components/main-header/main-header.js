@@ -10,7 +10,7 @@ const MainHeader = () => {
             <MainHeaderBackground />
             <header className={classes.header}>
                 <Link className={classes.logo} href="/">
-                    <Image src={LogoImage} priority />
+                    <Image src={LogoImage} alt="Logo" priority />
                     Next Level Food
                 </Link>
                 <nav className={classes.nav}>
